@@ -362,6 +362,9 @@
   "levelDoor_decision_yes": "Yes",
   "levelDoor_decision_no": "No",
 
+"destroy_notHealthyEnough" : "Im not healthy enough to destroy this.",
+"destroy_requiresTool" : "I don't have the appropriate tools.",
+
 
   "boss_escapedBirdEasteregg": "Test subject 42-69-72-64, DANGER!!1!",
   "boss_evilScarecrow": "Aggressive Scarecrow",
