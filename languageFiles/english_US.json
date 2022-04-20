@@ -103,7 +103,7 @@
   "skillMenu_skill_description_Meditation": "You'll <style='key'>not become insane</style>. Will not work if you are already insane.\nSplattereffects on your screen are less obstrusive.\nShooting arrows will lower your Insanity.",
   "skillMenu_skill_description_TrueDamage": "Every <style='key'>third</style> hit with a knife will <style='key'>ignore</style> armor and similar effects and has <style='key'>doubled</style> Power.",
   "skillMenu_skill_description_DamageToStamina": "If you take <style='key'>damage</style> , you will not loose <style='key'>stamina</style> anymore. Instead you'll <style='key'>receive</style> the same amount as stamina you would have gotten as damage.",
-  "skillMenu_skill_description_Invincible": "If u get hit during a <style='key'>Sword attacks</style>, you'll receive <style='value'>50%</style> less damage.\nAdditionally you're <style='key'>immune</style> to <style='key'>explosive damage</style> including <style='key'>exploding plants</style>!",
+  "skillMenu_skill_description_Invincible": "If you get hit during a <style='key'>Sword attacks</style>, you'll receive <style='value'>50%</style> less damage.\nAdditionally you're <style='key'>immune</style> to <style='key'>explosive damage</style> including <style='key'>exploding plants</style>!",
   "skillMenu_skill_description_Infinitum": "Receive an <style='key'>unlimited</style> supply of <style='key'>basic arrows</style>.",
   "skillMenu_skill_description_DoubleTap": "For <style='key'>each arrow</style> you shoot, the Goddess will fire <style='key'>another Arrow</style> with the <style='key'>same effect, charge and stats</style> at the same target.",
   "skillMenu_skill_description_Rage": "If you <style='key'>kill an enemy</style>, you'll receive <style='value'>20%</style> Handling for <style='value'>10</style> seconds. The maximum is <style='value'>100%</style> additional handling.",
@@ -300,7 +300,7 @@
   "info_corpse_6": "She tried to split wood.",
   "info_corpse_7": "This guard died violently.",
   "info_corpse_8": "Wounds, look like a big spear inflicted them.",
-  "info_corpse_9": "The vultures can be dangerous, \nif u annoy them during breeding season.",
+  "info_corpse_9": "The vultures can be dangerous, \nif you annoy them during breeding season.",
   "info_scarecrow": "A scarecrow with a hat.",
   "info_swampNotAllowed": "The swamps? - No way I'll go there!",
   "info_cityGateClosed": "The City gate is locked.",
@@ -1168,5 +1168,5 @@
   "loadingScreen_loading": "Loading...",
   "demo_note_headline": "End of demo",
   "demo_note_content": "Congratulations! You completed the MaDevil demo. But there's more!\n\nBuy the game to continue your journey.",
-  "end_titles": "MaDevil||6|A Game by Karl Wenzel||8|Grafik\nGamedesign\nMusik|Karl Wenzel|8|Voices|Theodor Kretschmer\nLuise Stachorra\nKay Wenzel\nKarl Wenzel|4|Bug Report Visualization|Conrad-Heinrich Carl|4|Tester|Mick Schumann\nPaul-Lennard Zschoppe|4|Tester|Conrad-Heinrich Carl\nTheodor Kretschmer\nSebastian Heiden|4|Many thanks|Unity Technologies\nBlender Foundation\nThe GIMP-Team\nfreesound.org\nThe Audacity-Team\npolyhaven.com|10|Thanks for playing||5|May the Goddess be with you||5"
+  "end_titles": "MaDevil||6|A Game by Karl Wenzel||8|Graphics\nGamedesign\nMusic|Karl Wenzel|8|Voices|Theodor Kretschmer\nLuise Stachorra\nKay Wenzel\nKarl Wenzel|4|Bug Report Visualization|Conrad-Heinrich Carl|4|Tester|Mick Schumann\nPaul-Lennard Zschoppe|4|Tester|Conrad-Heinrich Carl\nTheodor Kretschmer\nSebastian Heiden|4|Many thanks|Unity Technologies\nBlender Foundation\nThe GIMP-Team\nfreesound.org\nThe Audacity-Team\npolyhaven.com|10|Thanks for playing||5|May the Goddess be with you||5"
 }
