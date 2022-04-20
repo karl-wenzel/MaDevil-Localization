@@ -393,6 +393,9 @@
   "tutorial_zoom": "Use the scrollwheel to zoom.",
   "tutorial_zoomGamepad": "To zoom, use: ",
 
+  "tutorial_madness": "If you receive damage, your madness increases. When you are mad, bad things may happen.",
+  "tutorial_madness_2": "By doing things like fishing or standing in the sun or by eating certain food, you can decrease your madness.",
+
   "settings_controls_gamepad_notMapped": "---",
   "settings_controls_gamepad_interact": "Use/Grab",
   "settings_controls_gamepad_switchSelection": "Switch selection",
@@ -459,6 +462,7 @@
   "location_risingTemple": "The Rising Temple",
   "location_cityCentre": "Citycentre",
   "location_windyWay": "Spiral path",
+  "location_windyWay": "Spiralpath",
   "location_redWineCellar": "Red winecellar",
   "location_longBridge": "Bridge in the void",
   "location_loneHouse": "the builders house",
@@ -1154,6 +1158,7 @@
   "mainMenu_new": "New Game",
   "mainMenu_load": "Load game",
   "mainMenu_continue": "Continue",
+  "mainMenu_attribution": "Attribution",
   "mainMenu_loadWindowHeadling": "Load game",
   "mainMenu_newGame_decision_description": "Do you really want to start a new Game?",
   "mainMenu_newGame_decision_yes": "Yes",
@@ -1162,5 +1167,7 @@
   "mainMenu_quitGame_decision_yes": "Yes",
   "mainMenu_quitGame_decision_no": "No",
   "loadingScreen_loading": "Loading...",
+  "demo_note_headline": "End of demo",
+  "demo_note_content": "Congratulations! You completed the MaDevil demo. But there's more!\n\nBuy the game to continue your journey.",
   "end_titles": "MaDevil||6|A Game by Karl Wenzel||8|Grafik\nGamedesign\nMusik|Karl Wenzel|8|Voices|Theodor Kretschmer\nLuise Stachorra\nKay Wenzel\nKarl Wenzel|4|Bug Report Visualization|Conrad-Heinrich Carl|4|Tester|Mick Schumann\nPaul-Lennard Zschoppe|4|Tester|Conrad-Heinrich Carl\nTheodor Kretschmer\nSebastian Heiden|4|Many thanks|Unity Technologies\nBlender Foundation\nThe GIMP-Team\nfreesound.org\nThe Audacity-Team\npolyhaven.com|10|Thanks for playing||5|May the Goddess be with you||5"
 }

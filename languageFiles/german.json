@@ -1092,6 +1092,9 @@
 "tutorial_zoom" : "Benutze das Mausrad, um zu zoomen.",
 "tutorial_zoomGamepad" : "Um zu zoomen, benutze",
 
+"tutorial_madness" : "Wenn du Schaden erleidest, steigt dein Wahnsinn. Durch Wahnsinn können schlimme Dinge passieren.",
+"tutorial_madness_2" : "Du kannst dich durch Tätigkeiten wie Fischen und Sonnen und durch bestimmtes Essen vom Wahnsinn befreien.",
+
 
 "settings_general" : "Allgemein",
 "settings_audio" : "Ton",
@@ -1225,6 +1228,7 @@ lösen: schießen",
 "mainMenu_quit" : "Beenden",
 "mainMenu_new" : "Neues Spiel",
 "mainMenu_load" : "Spiel laden",
+"mainMenu_attribution" : "Attribution",
 "mainMenu_continue" : "Spiel fortsetzen",
 "mainMenu_loadWindowHeadling" : "Spiel laden",
 "mainMenu_newGame_decision_description" : "Möchtest du wirklich ein neues Spiel starten?",
@@ -1233,6 +1237,9 @@ lösen: schießen",
 "mainMenu_quitGame_decision_description" : "Spiel wirklich beenden?",
 "mainMenu_quitGame_decision_yes" : "Ja",
 "mainMenu_quitGame_decision_no" : "Nein",
+
+"demo_note_headline" : "Ende der Demo",
+"demo_note_content" : "Glückwunsch! Du hast die Demo von MaDevil beendet. Aber es gibt noch mehr!\n\nKaufe das Spiel, um deine Reise fortzusetzen.",
 
 "loadingScreen_loading" : "Lade...",
 
