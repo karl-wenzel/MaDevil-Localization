@@ -993,6 +993,33 @@
 "items_spicySnack_description" : "Dieser Snack ist so scharf, dass er einen schnell davonzischen lässt.",
 "items_spicySnack_effect" : "+ 16 Dashes",
 
+"items_faithRole_name" : "Gebetsspruchrolle",
+"items_faithRole_description" : "Eine Spruchrolle, auf der die strenggläubigen Menschen der Insel ihre Hingabe an die Göttin des Meeres niederschrieben.",
+"items_faithRole_effect" : "3 Minuten lang: +50% Ausdauer pro Kill",
+"items_glowingFaithSigil_name" : "Glühendes Glaubenssymbol",
+"items_glowingFaithSigil_description" : "Einst ein einfaches Symbol, aus Stahl geschmiedet, hat sich dieses Zeichen des Glaubens nun mit spiritueller Energie vollgesogen. Unter dem Einfluss eines Glaubenssymbols können Gläubige motiviert werden, Unvorstellbares zu leisten.",
+"items_glowingFaithSigil_effect" : "Die nächsten 10 Angriffe verbrauchen keine Stamina",
+"items_devilsCircle_name" : "Bindendes Pentagramm",
+"items_devilsCircle_description" : "Die Form eines Pentagramms ist bestens geeignet, um Geister zu bändigen. Die Priesterinnen des Tempels haben wohl versucht, den Wahnsinn, der sie befiehl, aufzuhalten. Vielleicht kann ich das Pentagramm nutzen, um all dem ein Ende zu setzen.",
+"items_goddessSigil_name" : "Siegel der Meeresgöttin",
+"items_goddessSigil_description" : "Siegel wie dieses tauchen dort auf, wo sich wahre Gläubige finden.",
+"items_goddessSigil_effect" : "Sendet eine Götterwelle aus",
+"items_exorcism_name" : "Exorzismus",
+"items_exorcism_description" : "Ein vollständiger Exorzismus. Dieser Exorzismus kann im Kampf gegen den Advokaten des Teufels verwendet werden, um diesen ohne Blutvergießen in die Zwischenwelt zu verbannen. Jedoch sollte man Vorsicht walten lassen, denn ein Exorzismus ist auch für den Exorzisten nicht ungefährlich. Muss im Kampf zum Funktionieren mehrfach verwendet werden.",
+"items_exorcism_effect" : "Führt Exorzismus durch. Fügt dem Nutzer großen Schaden zu.",
+"items_exorcism_partGoddessSigil_name" : "Unfertiger Exorzismus (Pentagramm, Siegel)",
+"items_exorcism_partGoddessSigil_description" : "Ein unvollständiger Exorzismus. Benötigt noch ein Glühendes Glaubenssymbol und eine Gebetsspruchrolle.",
+"items_exorcism_partFaithSigil_name" : "Unfertiger Exorzismus (Pentagramm, Symbol)",
+"items_exorcism_partFaithSigil_description" : "Ein unvollständiger Exorzismus. Benötigt noch ein Siegel der Meeresgöttin und eine Gebetsspruchrolle.",
+"items_exorcism_partFaithRole_name" : "Unfertiger Exorzismus (Pentagramm, Spruchrolle)",
+"items_exorcism_partFaithRole_description" : "Ein unvollständiger Exorzismus. Benötigt noch ein Siegel der Meeresgöttin und ein Glühendes Glaubenssymbol.",
+"items_exorcism_partGoddessSigilFaithRole_name" : "Unfertiger Exorzismus (Pentagramm, Spruchrolle, Siegel)",
+"items_exorcism_partGoddessSigilFaithRole_description" : "Ein unvollständiger Exorzismus. Benötigt noch ein Glühendes Glaubenssymbol.",
+"items_exorcism_partFaithSigilFaithRole_name" : "Unfertiger Exorzismus (Pentagramm, Symbol, Spruchrolle)",
+"items_exorcism_partFaithSigilFaithRole_description" : "Ein unvollständiger Exorzismus. Benötigt noch ein Siegel der Meeresgöttin.",
+"items_exorcism_partFaithSigilGoddessSigil_name" : "Unfertiger Exorzismus (Pentagramm, Symbol, Siegel)",
+"items_exorcism_partFaithSigilGoddessSigil_description" : "Ein unvollständiger Exorzismus. Benötigt noch eine Gebetsspruchrolle.",
+
 
 
 
