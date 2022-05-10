@@ -210,7 +210,8 @@
 "place_guardNeedsWater" : "Dieser Mann benötigt Wasser.",
 "place_magicPot" : "Magischer Blumentopf",
 "place_magicPot_placed" : "Ein magischer Bohnenbaum",
-
+"place_teleportationSlotMachine" : "Teleportations-Münzautomat",
+"place_teleportationSlotMachine_placed" : "Teleportations-Maschine",
 
 "grab_damageRune" : "Schadensrune",
 "grab_ironDamageRune" : "Eiserne Schadensrune",
@@ -432,6 +433,8 @@
 "levelDoor_backToUnderground_decision" : "in den Untergrund",
 "levelDoor_toFortress" : "Zum Burghof hinaufklettern",
 "levelDoor_toFortress_decision" : "zum Burghof hinauf",
+"levelDoor_toUndergroundByTeleporter" : "Teleporter benutzen",
+"levelDoor_toUndergroundByTeleporter_decision" : "zu einem unbekannten Ort",
 
 "levelDoor_decision_0" : "Willst du wirklich ",
 "levelDoor_decision_1" : " reisen?",

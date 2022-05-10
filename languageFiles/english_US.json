@@ -157,6 +157,8 @@
   "inventory_itemInfo_stats_11": "Power",
   "inventory_itemInfo_stats_12": "Range",
   "inventory_itemInfo_stats_13": "Stamina consumption",
+
+
   "place_igniteBeacon": "The bonfire must be lit",
   "place_extinguishedFire": "The fire burnt out",
   "place_keystonePedestal": "A pillar, it requires a keystone",
@@ -168,6 +170,9 @@
   "place_guardNeedsWater": "That guy needs some water.",
   "place_magicPot": "Magic flowerpot",
   "place_magicPot_placed": "A magic beanstalk",
+  "place_teleportationSlotMachine": "Teleportation slot machine",
+  "place_teleportationSlotMachine_placed": "Teleportation machine",
+
   "grab_damageRune": "A damagerune",
   "grab_ironDamageRune": "An iron damagerune",
   "grab_fireRune": "A firerune",
@@ -371,6 +376,9 @@
   "levelDoor_toUnderground_decision": "downwards",
   "levelDoor_backToUnderground_decision": "into the Underground!",
   "levelDoor_toFortress_decision": "up to the fortress",
+  "levelDoor_toUndergroundByTeleporter": "Use teleporter",
+  "levelDoor_toUndergroundByTeleporter_decision": "to an unknown place",
+
   "levelDoor_decision_0": "Do you really want to travel ",
   "levelDoor_decision_1": " ?",
   "levelDoor_decision_yes": "Yes",
