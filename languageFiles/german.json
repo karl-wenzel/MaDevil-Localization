@@ -1106,7 +1106,7 @@
   "tutorial_walkWASD": "Benutze WASD, um zu gehen.",
   "tutorial_walkGamepad": "Benutze den linken Stick, um zu gehen.",
   "tutorial_run": "Drücke LShift während du gehst, um zu rennen.",
-  "tutorial_runGamepad": "Drücke den linken Stick, um zu rennen.",
+  "tutorial_runGamepad": "Drücke den linken Stick, während du gehst, um zu rennen.",
 
   "tutorial_inventory": "Klicke auf den Beutel, um dein Inventar zu öffnen.",
   "tutorial_inventoryGamepad": "Um dein Inventar zu öffnen, drücke",
