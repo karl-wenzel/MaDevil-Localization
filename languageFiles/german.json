@@ -1206,6 +1206,7 @@
   "settings_controls_resetToDefaults": "Auf Standardeinstellungen zurücksetzen",
   "settings_controls_useWASDcontrols": "WASD-Steuerung verwenden",
   "settings_controls_useNearestActiveObject": "Benutzen/Aufheben",
+  "settings_controls_alreadyMapped" :  "Taste schon vergeben.",
 
   "settings_controls_gamepad_notMapped": "---",
   "settings_controls_gamepad_interact": "Benutzen/Aufheben",

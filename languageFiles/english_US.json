@@ -1191,6 +1191,7 @@
   "settings_controls_resetToDefaults": "Reset to default settings",
   "settings_controls_useWASDcontrols": "Use WASD-Control scheme",
   "settings_controls_useNearestActiveObject": "Use/pick up",
+  "settings_controls_alreadyMapped": "Key already mapped.",
   "settings_initial_setBrightnessDescription": "Adjust your gamma until 'Evil' is barely visible.",
   "settings_initial_setVolumeDescription": "Adjust the volume until the sound is loud enough but not too loud.",
   "settings_initial_finished": "Done",
