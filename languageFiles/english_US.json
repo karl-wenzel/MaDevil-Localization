@@ -1122,11 +1122,18 @@
   "settings_audio": "Audio",
   "settings_video": "Video",
   "settings_controls": "Controls",
+
   "settings_general_combatDifficulty": "Combat difficulty",
-  "settings_general_combatDifficulty_1": "1: relaxed",
-  "settings_general_combatDifficulty_2": "2: relaxingly challenging",
-  "settings_general_combatDifficulty_3": "3: challengingly stressful",
-  "settings_general_combatDifficulty_4": "4: hell",
+  "settings_general_combatDifficulty_1": "1: Relaxed",
+  "settings_general_combatDifficulty_2": "2: Normal",
+  "settings_general_combatDifficulty_3": "3: Challenging",
+  "settings_general_combatDifficulty_4": "4: Hell",
+
+  "settings_general_combatDifficulty_1_description" :  "On '''Relaxed''' difficulty, enemies move and attack much slower than normal.\nYou take almost no damage.\nThis is for people that are just here for the journey and dont want to worry too much about the demons.",
+  "settings_general_combatDifficulty_2_description" :  "On '''Normal''' difficulty, enemies move and attack quite slow.\nThey can damage you a bit and provide a moderate challenge to overcome.\nThis is for people that want to play the game casually.",
+  "settings_general_combatDifficulty_3_description" :  "On '''Challenging''' difficulty, enemies move usually as fast as you and attack at their normal speed, making the game much more dynamic.\nIf you don't dodge at all, you will probably die.\nThis is for people that want to experience challenging but fair gameplay.",
+  "settings_general_combatDifficulty_4_description" :  "On '''Hell''' difficulty, enemies move and attack very fast. You might have to run and dodge to get away from them.\nEverything does way too much damage. Some attacks almost one-shot you.\nThis is for people that want to fall, get back up and try again.",
+
   "settings_general_followCursor": "Always follow cursor",
   "settings_general_mainCharacterComedic": "Speach frequency",
   "settings_general_optionalVideoEffects": "Optional graphic effects",

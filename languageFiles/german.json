@@ -1132,10 +1132,16 @@
   "settings_controls": "Steuerung",
 
   "settings_general_combatDifficulty": "Kampfschwierigkeit",
-  "settings_general_combatDifficulty_1": "1: Einfach entspannt",
-  "settings_general_combatDifficulty_2": "2: Entspannt anspruchsvoll",
-  "settings_general_combatDifficulty_3": "3: Anspruchsvoll anstrengend",
+  "settings_general_combatDifficulty_1": "1: Entspannt",
+  "settings_general_combatDifficulty_2": "2: Normal",
+  "settings_general_combatDifficulty_3": "3: Anspruchsvoll",
   "settings_general_combatDifficulty_4": "4: Die Hölle",
+  "settings_general_combatDifficulty_1_description": "Auf Schwierigkeitsgrad '''Entspannt''' bewegen sich Gegner sehr viel langsamer und greifen langsam an.\nDu nimmst fast keinen Schaden.\nGeeignet für Spieler, die nur für die gute Landluft hier sind und sich keine Sorgen um die Dämonen machen wollen.",
+  "settings_general_combatDifficulty_2_description": "Auf Schwierigkeitsgrad '''Normal''' bewegen sich Gegner relativ langsam und greifen auch langsam an.\nSie können dir Schaden hinzufügen und eine kleine Herausforderung darstellen.\nGeeignet für Spieler, die das Spiel ganz unstressig durchspielen wollen.",
+  "settings_general_combatDifficulty_3_description": "Auf Schwierigkeitsgrad '''Anspruchsvoll''' bewegen sich die Gegner meist etwa so schnell wie du and greifen in ihrer normalen Geschwindigkeit an. Das Spiel ist dadurch um einiges dynamischer.\nWenn du nicht ausweichst, wirst du vermutlich sterben.\nGeeignet für Spieler, die ein anspruchsvolles, aber faires Spielerlebnis haben wollen.",
+  "settings_general_combatDifficulty_4_description": "Auf Schwierigkeitsgrad '''Die Hölle''' bewegen sich Gegner sehr schnell und greifen blitzschnell an. Du musst vermutlich rennen und ausweichen, um von ihnen wegzukommen.\nAlles macht viel zu viel Schaden. Manche Angriffe können dich fast mit einem Treffer töten.\nGeeignet für Spieler, die bereit sind, zu scheitern, sich wieder aufzuraffen und es noch einmal zu versuchen.",
+
+
   "settings_general_followCursor": "Mauszeiger immer folgen",
   "settings_general_mainCharacterComedic": "Sprachhäufigkeit Spielercharackter",
   "settings_general_language": "Sprache",
